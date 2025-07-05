@@ -51,7 +51,7 @@
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/anand46)
+- 💼 [LinkedIn]([www.linkedin.com/in/anand46](https://www.linkedin.com/in/anand46/))
 - 📧 anandvenugopal46@gmail.com
 
 ---
